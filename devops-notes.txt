@@ -1,0 +1,17 @@
+MY DEVOPS JOURNEY
+
+Day 1
+
+Today I started learning DevOps.
+
+I learned:
+-What Git is
+-How to create a GitHub repository
+-How to clone a repository
+-How to use Git Bash
+-How to navigate folders using the terminal
+-How to create a text file using the terminal
+
+My goal:
+Become a Cloud/DevOps Engineer.
+
